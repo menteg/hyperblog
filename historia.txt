@@ -6,4 +6,6 @@ Experimento 1
 
 Experimento 2
 
+clean
+
 Segundo cambio de historia despues de arrancar el proyecto
